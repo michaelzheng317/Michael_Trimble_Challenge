@@ -36,6 +36,10 @@ namespace Michael_Trimble_Challenge.Code
         */
         private static bool drawPath(List<List<Cell>> matrix, int row, int column, string path)
         {
+            if(path == null)
+            {
+                return false;
+            }
             foreach(char c in path)
             {
                 switch(c)
