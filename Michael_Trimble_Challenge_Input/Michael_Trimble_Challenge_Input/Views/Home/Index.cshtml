@@ -1,0 +1,30 @@
+﻿<input id="mapInput" type="text" style="width: 100%;" placeholder="Copy and paste maze map to here">
+
+<input id="solveMazeInput" type="submit" value="Solve Maze" />
+
+<pre id="result">
+</pre>
+
+<script>
+$(document).ready(function () {
+    $('#solveMazeInput').click(function() {
+        $.ajax({
+            data: {
+                map: $("#mapInput").val()
+            }, 
+            type: "post", 
+            url: "http://localhost:8080/solveMaze",
+            success: function (json) {  
+                $("#result").text(JSON.stringify(json, undefined, 4).replace(/\\n/g, "\n\t\t ")); 
+            },  
+            error: function (parsedjson, textStatus, errorThrown) {  
+                $('body').append(  
+                    "parsedJson status: " + parsedjson.status + '</br>' +  
+                    "errorStatus: " + textStatus + '</br>' +  
+                    "errorThrown: " + errorThrown);  
+            }  
+        });
+    });
+});
+
+</script>
