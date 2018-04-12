@@ -1,0 +1,11 @@
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimle_Challenge.deps.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimle_Challenge.runtimeconfig.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimle_Challenge.runtimeconfig.dev.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimle_Challenge.dll
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimle_Challenge.pdb
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.csprojResolveAssemblyReference.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.csproj.CoreCompileInputs.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.AssemblyInfoInputs.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.AssemblyInfo.cs
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.dll
+/Users/yizheng/Desktop/VS Project/Michael_Trimle_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimle_Challenge.pdb

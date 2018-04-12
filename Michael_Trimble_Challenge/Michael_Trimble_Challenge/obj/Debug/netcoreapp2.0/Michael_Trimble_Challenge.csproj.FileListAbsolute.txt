@@ -1,0 +1,22 @@
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimble_Challenge.deps.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimble_Challenge.runtimeconfig.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimble_Challenge.runtimeconfig.dev.json
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimble_Challenge.dll
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/bin/Debug/netcoreapp2.0/Michael_Trimble_Challenge.pdb
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.csprojResolveAssemblyReference.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.csproj.CoreCompileInputs.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.AssemblyInfoInputs.cache
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.AssemblyInfo.cs
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.dll
+/Users/yizheng/Desktop/VS Project/Michael_Trimble_Challenge/Michael_Trimle_Challenge/obj/Debug/netcoreapp2.0/Michael_Trimble_Challenge.pdb
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\bin\Debug\netcoreapp2.0\Michael_Trimble_Challenge.deps.json
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\bin\Debug\netcoreapp2.0\Michael_Trimble_Challenge.runtimeconfig.json
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\bin\Debug\netcoreapp2.0\Michael_Trimble_Challenge.runtimeconfig.dev.json
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\bin\Debug\netcoreapp2.0\Michael_Trimble_Challenge.dll
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\bin\Debug\netcoreapp2.0\Michael_Trimble_Challenge.pdb
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.csprojResolveAssemblyReference.cache
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.csproj.CoreCompileInputs.cache
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.AssemblyInfoInputs.cache
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.AssemblyInfo.cs
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.dll
+E:\Dropbox\Dropbox\YiZheng\Application\2018\PeopleNet\Challenge\Michael_Trimble_Challenge\Michael_Trimble_Challenge\obj\Debug\netcoreapp2.0\Michael_Trimble_Challenge.pdb
